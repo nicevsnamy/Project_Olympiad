@@ -1,0 +1,22 @@
+body{
+    font-family: "Helvetica";
+}
+h1{
+    color:blue;
+}
+.canvas{
+    position:absolute;
+    z-index:-1;
+    top:100px;
+}
+#country_name{
+    position:absolute;
+    height:32px;
+    z-index:1;
+    background-color:black;
+    font-size:32px;
+    color:red;
+    /*width:1000px;*/
+    text-align:center;
+    margin:auto;
+}
