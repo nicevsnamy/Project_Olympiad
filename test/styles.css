@@ -135,8 +135,16 @@ h1{
   #submit{
     margin-left:22px;
     border:none;
+    font-size:16px;
+    background-color: #3e76ec;
+    color:white;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:20px;
+    margin-top:20px;
   }
   #submit:hover{
     background-color:#179a13;
-    transition:0.5s
+    transition:0.5s;
+    cursor: pointer;
   }
